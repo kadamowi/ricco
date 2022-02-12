@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693542842675",
+    "project_id": "ricco-16cdd",
+    "storage_bucket": "ricco-16cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693542842675:android:3439389fdfac09a46e0e46",
+        "android_client_info": {
+          "package_name": "com.kris.ricco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693542842675-2a983aho4vstrreqpk1dh2q1icakdekb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMamuJRvP4eF_FjXelef8lSwKpH1REhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693542842675-2a983aho4vstrreqpk1dh2q1icakdekb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
